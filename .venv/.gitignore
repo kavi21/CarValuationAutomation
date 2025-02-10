@@ -1,0 +1,7 @@
+echo "__pycache__/" >> .gitignore
+echo ".pytest_cache/" >> .gitignore
+echo ".idea/" >> .gitignore
+echo "*.log" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo "*.pyo" >> .gitignore
+echo "venv/" >> .gitignore
